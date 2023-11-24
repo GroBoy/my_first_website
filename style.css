@@ -1,0 +1,27 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7ecba;
+    font-size: 18pt;
+}
+
+h1, h2 {
+    text-align: center;
+}
+p {
+    text-align: justify; 
+}
+
+img {
+    width: 100%;
+}
+.gray {
+    color:#888;
+}
+
+.termin {
+    font-family: monospace;
+    background-color:rgb(179, 168, 129);
+    padding:30px;
+    border: 2px solid #c5ba8a;
+    border-radius:25px;
+}
